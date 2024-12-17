@@ -183,7 +183,3 @@ Follow the team’s **coding standards** and commit guidelines.
 - **Syed** - [LinkedIn](https://linkedin.com/syed) | [Email](syed@xyz.com)  
 - **Ali** - [LinkedIn](https://linkedin.com/ali) | [Email](ali@xyz.com)
 
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).
